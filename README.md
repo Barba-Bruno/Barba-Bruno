@@ -1,4 +1,6 @@
-
+Me chamo Bruno Cesar.
+Estudante de Análise e Desenvolvimento de Sistemas
+Email: brunocesarcbezerra@gmail.com
 
 ## Skills:
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
