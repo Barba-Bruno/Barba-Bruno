@@ -1,6 +1,11 @@
 
 
-Estudante de Análise e Desenvolvimento de Sistemas
+Systems Analyst with 2+ years of experience in Workforce Management, Operational Intelligence, and Technical Support.
+I work at the intersection of data, operations, and AI: building internal tools with Claude AI and Replit, automating operational workflows, and creating  dashboards that turn raw data into clear, strategic decisions for leadership.
+Currently applying AI to accelerate WFM processes — from demand forecasting and 24/7 shift planning to automated reporting and KPI tracking — reducing manual effort and improving operational visibility across the team.
+Background in systems analysis, database management, and bilingual technical support (EN/ES). Constantly looking for ways to transform operational data into actionable insights.
+
+🔹 Core Skills: WFM · Power BI · MySQL · Python · Claude AI · Replit ·  Jira · Zendesk · Process Automation · Operational KPIs ·  Data Governance · AI-Powered Automation · Operational Analytics · KPI Monitoring  · Process Automation
 
 Email: brunocesarcbezerra@gmail.com
 
